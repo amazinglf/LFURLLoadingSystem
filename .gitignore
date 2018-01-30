@@ -2,4 +2,6 @@ xcuserdata
 build
 .DS_Store
 *.orig
+*.xcmergebackup
+*.xcuserstate
 

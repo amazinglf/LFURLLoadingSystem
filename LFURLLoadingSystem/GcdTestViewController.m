@@ -52,7 +52,7 @@
     if (!_asyncButton) {
         _asyncButton = [[UIButton alloc] initWithFrame:CGRectMake(50, 50, 50, 50)];
         _asyncButton.backgroundColor = [UIColor whiteColor];
-        [_asyncButton setTitle:@"asynctest-master" forState:UIControlStateNormal];
+        [_asyncButton setTitle:@"asynctestteste" forState:UIControlStateNormal];
         [_asyncButton setTitleColor:[UIColor blackColor] forState:UIControlStateNormal];
         [_asyncButton addTarget:self action:@selector(asyncTest) forControlEvents:UIControlEventTouchUpInside];
     }
